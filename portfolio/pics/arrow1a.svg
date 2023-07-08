@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="13" viewBox="0 0 35 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #353535;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Arrow_5_2" data-name="Arrow 5 2" class="cls-1" d="M1.014,5.533H26.186C24.973,3.746,24.369,2.581,24.307.992,27.066,3.731,30.652,5.157,34.986,6.5c-4.334,1.284-7.762,2.851-10.679,5.507a9.572,9.572,0,0,1,1.916-4.669H1.014v-1.8Z"/>
+</svg>
