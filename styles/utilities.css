@@ -1422,7 +1422,7 @@
     padding: 2rem 2rem;
   }
   .title_cap_lg, .title_cap_md{
-    font-size: 10rem;
+    font-size: 9rem;
     letter-spacing: 0.5;
   }
 
@@ -1486,9 +1486,8 @@
 
 
   .about_section_wrapper{
-    height: 300vh;
-
-    min-height:1500px;
+    height: 240vh;
+    min-height:1600px;
   }
 
 
@@ -1496,10 +1495,9 @@
     font-size: 5rem;
   }
   .about_dome{
-    height: 240vh;
+    height: 180vh;
     max-width: 2000px;
-
-    min-height: 200px;
+    min-height: 1400px;
   }
 
   .about_description{
@@ -1546,8 +1544,8 @@
 
 
   .selcted_works_wrapper{
-    height: 300vh;
-    min-height: 1800px;
+    height: 264vh;
+    min-height: 2000px;
     padding: 0;
   }
 
@@ -1582,6 +1580,8 @@
     min-height: 1000px;
     overflow: hidden;
     padding-top: 0;
+    border: none;
+    border:0;
   }
   .add_work_title{
     margin: 0 auto;
@@ -1600,12 +1600,12 @@
 
 
   .core_principles_wrapper{
-      height:400vh;
-      min-height: 2000px;
+      height:300vh;
+      min-height: 2270px;
   }
   .core_principles_dome{
-    height: 340vh;
-    min-height: 2100px;
+    height: 238vh;
+    min-height: 2040px;
     /* max-width: 1440px; */
     background-position: -10rem 0 0 0 ;
     margin: -3rem 0 0 0;
@@ -1653,10 +1653,10 @@
         flex-direction: row;
     }
     .lottie_bg{
-        height:70vh;
+        height:45vh;
         min-width: 300px;
         min-height: 400px;
-        width: 20rem;
+        width: 16rem;
         overflow: hidden;
     }
     .lottie_glass_bg{
@@ -1683,13 +1683,13 @@
 
 
     .cta_bg_wrapper{
-      height: 92vh;
-      min-height: 600px;
+      height: 70vh;
+      min-height: 550px;
       width: 100%;
       padding: 2.3rem 0 0 0;
     }
     .cta_bg{
-      height: 90vh;
+      height: 61vh;
       min-height: 500px;
       width: 95%;
       padding: 0 0 0 3rem;
