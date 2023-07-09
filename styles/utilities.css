@@ -11,6 +11,7 @@
     align-items: center;
     justify-content: center;
     display: flex;
+    padding: 6rem 0 0 0;
   }
   .hero_content_wrapper{
     max-width: 1536px;
@@ -89,8 +90,6 @@
 
   .works1_text{
     margin: 0 0 8rem 30rem;
-
-
   }
 
   .project{
@@ -329,6 +328,365 @@
       text-align: right;
       margin: 0 3.8rem 0 0;
     }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/* LARGE LAPTOP SCREEN */
+@media (max-width: 1920px){
+  .hero_section_bg{
+    width: 100%;
+    min-height: 800px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 11rem 0 0 0;
+  }
+  .hero_content_wrapper{
+    max-width: 1536px;
+    min-height: 800px;
+  }
+
+  .description_para{
+    font-weight:500;
+    font-size: 1rem;
+    line-height: 2.3;
+    text-align: left;
+    width: 110%;
+  }
+
+  .btn_lg{
+    padding: 3.5rem 6.25rem;
+  }
+
+  .flower_accent{
+    width: 7rem;
+    right: 18rem;
+  }
+
+
+  .intro_wrapper{
+    width: 100%;
+    min-height: 400px;
+    height: 45vh;
+  }
+
+  .intro_content{
+    max-width: 1500px;
+    min-height: 500px;
+    width: 50%;
+  }
+
+
+
+
+  .about_section_wrapper{
+    height: 300vh;
+    min-height: 2500px;
+  }
+
+  .about_dome{
+    height: 240vh;
+    max-width: 2000px;
+    border-radius: 5000px;
+  }
+
+  .about_description{
+    color:#353535;
+    width: 35%;
+  }
+
+  .about_images{
+    margin: 0 0 0 18rem;
+  }
+
+  .about_img_description{
+    width: 15%;
+    z-index: 5;
+    left: 15rem;
+  }
+
+  .about_flower{
+    left:20rem;
+  }
+
+
+
+
+
+  .selcted_works_wrapper{
+    height: 280vh;
+    min-height: 2500px;
+    padding: 4rem 0 0 0;
+    width: 100%;
+  }
+
+  .works1_text{
+    margin: 0 0 8rem 18rem;
+  }
+
+  .project{
+    width: 95%;
+    max-width: 1536px;
+    margin: 2rem auto;
+    min-height: 700px;
+  }
+  .project2{
+    background-position: left top;
+  }
+
+
+
+
+
+  .add-work_bg{
+    padding: 1.6rem 2.4rem;
+    height: 100vh;
+    width: 100%;
+    min-height: 1000px;
+
+  }
+  .add_work_title{
+    max-width: 1536px;
+    margin: 0 auto;
+
+
+  }
+  .add_projects{
+    max-width: 1536px;
+    margin: 0 auto;
+
+    padding: 2.8rem 1.2rem;
+
+  }
+  .add_work_arrow{
+    right: 17rem;
+  }
+  .project_title{
+    overflow: hidden;
+    padding: 0 0 0rem 0;
+  }
+
+
+
+
+
+    .core_principles_wrapper{
+        height:320vh;
+        min-height: 3300px;
+        width: 100%; */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        padding-top: 8rem;
+    }
+    .core_principles_dome{
+      min-height:2700px;
+      height:300vh;
+      border-radius: 5000px;
+
+      align-items: center;
+    }
+
+
+    .core_principles_button{
+      margin: 10rem 0 0 0;
+    }
+    .core_principles_btn{
+      margin: 2.5rem  4rem;
+    }
+    .core_principles_text{
+      width: 100%;
+      margin: 0 0 0 8rem ;
+    }
+    .core_principles_descr{
+      left:2rem;
+    }
+    .works1_text p{
+      width: 19%;
+      left: -6rem;
+      top:0rem;
+      }
+      .core_principles_text p{
+        width: 30%;
+        left: -13rem;
+        top:-3rem;
+      }
+      .bonus_text{
+        display: block;
+        margin: 15rem 0 0 0;
+        text-align: center;
+        justify-content: center;
+
+      }
+      .bonus_snippets_description{
+        left:0;
+        width: 25%;
+        margin: 1.65rem auto;
+      }
+      .lottie_with_text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .lottie_set-wrapper{
+        gap: 3rem;
+        margin: -20rem 0 0 0;
+        flex-direction: row;
+      }
+      .lottie_bg{
+        width: 517px;
+        height: 700px;
+        overflow: hidden;
+      }
+      .lottie_glass_bg{
+        overflow: hidden;
+      }
+      .lottie_description{
+        width: 100%;
+        margin: 2.5rem 0;
+        left:0;
+      }
+      .lottie2{
+        margin: 38rem 0 0 0;
+      }
+
+
+
+
+
+
+      .cta_bg_wrapper{
+        height: 110vh;
+        min-height: 1100px;
+        width: 100%;
+        padding: 15rem 0 0 0;
+        border: none;
+      }
+      .cta_bg{
+        height: 70vh;
+        max-height: 100em;
+        min-height: 720px;
+        max-width: 2000px;
+        align-items: center;
+      }
+      .cta_text_wrapper{
+        margin: 6rem 0 0 0;
+        padding: 5rem 0 0 9rem ;
+        width: 100%;
+      }
+      .cta_text_title{
+        overflow: hidden;
+      }
+      .cta_bottom{
+        margin: 2.25rem 0 0 0;
+      }
+      .cta_description{
+        display: block;
+        position: relative;
+        margin: 4.5rem 0 0 14.5rem;
+        width: 100%;
+        padding: 0;
+      }
+      .cta_text_heading_small{
+        font-size: 9rem;
+        font-weight: 200;
+      }
+      .cta_btn{
+        padding: 3.5rem 0;
+        width: 30%;
+        margin: 0 0 0 4rem;
+
+      }
+      .envelope{
+        width: 7%;
+        top: 0;
+        margin:0;
+        padding:0 0 0 1rem;
+      }
+
+
+
+
+
+          .footer_bg{
+            height: 14vh;
+            min-height: 100px;
+            justify-content:  space-between;
+            width: 100%;
+            padding: 0 0rem;
+          }
+
+          .social_media_set_wrapper{
+            display: flex;
+            flex-direction: row;
+            gap:0rem;
+            padding:0;
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin: 0 0 0 2.8rem;
+            width: 100%;
+            position: relative;
+          }
+
+          .social_media_btn_wrapper{
+            position: relative;
+            padding:0;
+            margin: 0 -12.5rem 0 0;
+            display: inline-block;
+            align-items: flex-start;
+            justify-content: flex-start;
+            gap:0;
+
+          }
+          .social_media_btn{
+            margin: 0;
+            display: flex;
+            font-size: 0.8rem;
+            padding: 0.8rem 0.5rem;
+
+
+          }
+          .copyright_wrapper{
+            display: flex;
+            width: 100%;
+            flex-direction: row;
+            justify-content: flex-end;
+            align-items: flex-end;
+          }
+          .copyright{
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.125rem;
+            width: 100%;
+            display: inline-block;
+            position: relative;
+            text-align: right;
+            margin: 0 3.8rem 0 0;
+          }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
