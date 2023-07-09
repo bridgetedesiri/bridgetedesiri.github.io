@@ -750,12 +750,12 @@
 
 
   .about_section_wrapper{
-    height: 300vh;
-    min-height: 2500px;
+    height: 320vh;
+    min-height: 2900px;
   }
 
   .about_dome{
-    height: 275vh;
+    height: 265vh;
     max-width: 2000px;
     border-radius: 5000px;
   }
@@ -841,8 +841,9 @@
 
 
 .core_principles_wrapper{
-    height:390vh;
-    min-height: 2600px;
+    height:360vh;
+    min-height: 2850px;
+    border:0;
 
 }
 .core_principles_dome{
@@ -951,7 +952,7 @@
   }
   .cta_text_wrapper{
     margin: 3rem 0 0 0;
-    padding: 2rem 0 0 9rem ;
+    padding: 6rem 0 0 9rem ;
     width: 100%;
   }
   .cta_text_title{
