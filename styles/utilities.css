@@ -787,6 +787,7 @@
     min-height: 2300px;
     padding: 0;
     border: 0;
+    border:none;
   }
 
   .project{
@@ -845,6 +846,7 @@
     height:360vh;
     min-height: 2850px;
     border:0;
+    border: none;
 
 }
 .core_principles_dome{
@@ -1074,7 +1076,7 @@
   .hero_content_wrapper{
     max-width: 1400px;
     min-height: 800px;
-    padding: 2rem 0;
+    padding: 6rem 0;
   }
   .hero_content_row1{
   gap: 2rem;
@@ -1110,7 +1112,7 @@
 
 
   .about_section_wrapper{
-    height: 370vh;
+    height: 300vh;
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -1119,7 +1121,7 @@
   }
 
   .about_dome{
-    height: 350vh;
+    height: 220vh;
     max-width: 2000px;
     border-radius: 5000px;
     min-height: 2000px;
@@ -1149,14 +1151,14 @@
 
 
   .selcted_works_wrapper{
-    height: 250vh;
-    min-height: 2000px;
+    height: 276vh;
+    min-height: 2500px;
     padding: 0;
   }
 
   .project{
     min-height: 600px;
-    background-position: top;
+    background-position: left top;
 
   }
 
@@ -1168,11 +1170,13 @@
 
 
   .add-work_bg{
-    height: 150vh;
+    height: 120vh;
     width: 100%;
     min-height: 1000px;
     overflow: hidden;
     padding-top: 0;
+    border:none;
+    border:0;
   }
   .add_work_title{
     margin: 0 auto;
@@ -1192,11 +1196,11 @@
 
 
   .core_principles_wrapper{
-      height:550vh;
-      min-height: 3000px;
+      height:360vh;
+      min-height: 3200px;
   }
   .core_principles_dome{
-    height: 500vh;
+    height: 313vh;
     min-height: 2700px;
     max-width: 1440px;
     align-items: center;
@@ -1276,14 +1280,14 @@
 
 
     .cta_bg_wrapper{
-      height: 100vh;
+      height: 70vh;
       min-height: 700px;
       width: 100%;
       padding: 2.3rem 0 0 0;
     }
     .cta_bg{
-      height: 95vh;
-      min-height: 600px;
+      height: 66vh;
+      min-height: 590px;
       /* max-height: 100em; */
       width: 95%;
       /* max-width: 2000px; */
