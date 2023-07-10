@@ -1916,8 +1916,8 @@
 
 
   .about_section_wrapper{
-    height: 250vh;
-    min-height:900px;
+    height: 150vh;
+    min-height:1400px;
   }
 
 
@@ -1938,8 +1938,8 @@
   }
 
   .about_desr_btn{
-    width:95%;
-    gap: 5rem;
+    width:100%;
+    gap: 4rem;
   }
 
 
@@ -1980,14 +1980,14 @@
 
 
   .selcted_works_wrapper{
-    height: 230vh;
-    min-height: 1200px;
+    height: 146vh;
+    min-height: 1400px;
     padding: 5rem 0;
   }
 
   .project{
     min-height: 400px;
-    height:70vh;
+    height:45vh;
   }
 
   .works1_text{
@@ -2035,7 +2035,7 @@
 
 
   .add-work_bg{
-    height: 150vh;
+    height: 102vh;
     width: 100%;
     min-height: 1000px;
     overflow: hidden;
@@ -2063,12 +2063,12 @@
 
 
   .core_principles_wrapper{
-      height:320vh;
-      min-height: 1850px;
+      height:197vh;
+      min-height: 2000px;
   }
   .core_principles_dome{
-    height: 290vh;
-    min-height: 1500px;
+    height: 190vh;
+    min-height: 1700px;
     max-width: 1440px;
     background-position: -10rem 0 0 0 ;
     margin: -3rem 0 0 0;
@@ -2120,9 +2120,9 @@
         flex-direction: row;
     }
     .lottie_bg{
-        height:50vh;
+        height:30vh;
         min-width: 200px;
-        min-height: 280px;
+        min-height: 296px;
         width: 14rem;
         overflow: hidden;
     }
@@ -2150,14 +2150,14 @@
 
 
     .cta_bg_wrapper{
-      height: 92vh;
-      min-height: 450px;
+      height: 45vh;
+      min-height: 433px;
       width: 100%;
       padding: 1.5rem 0 0 0;
     }
     .cta_bg{
-      height: 80vh;
-      min-height: 350px;
+      height: 41vh;
+      min-height: 390px;
       width: 95%;
       padding: 0 0 0 0rem;
     }
