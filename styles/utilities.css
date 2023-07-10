@@ -2067,8 +2067,8 @@
       min-height: 2000px;
   }
   .core_principles_dome{
-    height: 190vh;
-    min-height: 1700px;
+    height: 165vh;
+    min-height: 1750px;
     max-width: 1440px;
     background-position: -10rem 0 0 0 ;
     margin: -3rem 0 0 0;
@@ -2102,7 +2102,7 @@
         top:1.5rem;
     }
     .bonus_text{
-        margin: 10rem 0 0 0;
+        margin: 2rem 0 0 0;
     }
     .bonus_snippets_description{
         width: 24%;
