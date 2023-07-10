@@ -2311,7 +2311,7 @@
 
 /* PHONE SCREEN */
 
-
+/*
 @media (max-width: 640px){
   .hero_section_bg{
     width: 100%;
@@ -2321,7 +2321,7 @@
   }
   .hero_content_wrapper{
     max-width: 620px;
-    /* min-height: 800px; */
+
     align-items: center;
     justify-content: center;
     display: flex;
@@ -2706,7 +2706,7 @@
 
 }
 
-
+*/
 
 
 
