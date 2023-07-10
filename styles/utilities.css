@@ -2721,7 +2721,7 @@
       padding: 0;
     }
     .hero_content_wrapper{
-      max-width: 620px;
+      max-width: 400px;
       /* min-height: 800px; */
       align-items: center;
       justify-content: center;
@@ -2731,6 +2731,7 @@
     .title_cap_lg, .title_cap_md{
       font-size: 5rem;
       letter-spacing: 0;
+      color:red;
     }
 
     .description_caps{
