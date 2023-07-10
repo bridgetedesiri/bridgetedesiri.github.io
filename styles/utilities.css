@@ -2704,19 +2704,413 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+  @media (max-width: 414px){
+    .hero_section_bg{
+      width: 100%;
+      height: 70vh;
+      min-height: 240px;
+      padding: 0;
+    }
+    .hero_content_wrapper{
+      max-width: 620px;
+      /* min-height: 800px; */
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      padding: 3rem 0.75rem 0 0rem;
+    }
+    .title_cap_lg, .title_cap_md{
+      font-size: 5rem;
+      letter-spacing: 0;
+    }
+
+    .description_caps{
+      font-size: 0.6rem;
+      line-height: 1.8;
+      margin: 0 0 0.5rem 0;
+    }
+
+    .description_para{
+      font-size: 0.45rem;
+      padding: 0;
+    }
+
+    .hero_content_row1{
+    gap: 1rem;
+    }
+
+    .btn_lg{
+      padding: 1.5rem 2.5rem;
+      font-size: 0.7rem;
+    }
+
+    .hero_content_row2{
+      gap: 2rem;
+    }
+
+    .flower_accent{
+      width: 3rem;
+      right: 3rem;
+
+    }
+
+
+
+    .intro_wrapper{
+      width: 100%;
+      min-height: 500px;
+      height: 50vh;
+    }
+
+    .intro_content{
+      max-width: 700px;
+      min-height: 500px;
+      width: 70%;
+
+    }
+    .intro_description{
+      color:#353535;
+      font-size: 1.0rem;
+      font-weight: 300;
+      line-height: 2rem;
+    }
+
+
+
+
+
+
+      .about_section_wrapper{
+        height: 210vh;
+        min-height:1200px;
+      }
+
+
+      .sentence_case_heading{
+        font-size: 3.5rem;
+      }
+      .about_dome{
+        height: 180vh;
+        width: 100%;
+        max-width: 768px;
+        min-height: 1000px;
+        overflow: hidden;
+
+      }
+
+      .about_description{
+        width: 50%;
+      }
+
+      .about_desr_btn{
+        width:95%;
+        gap: 3rem;
+        padding: 1.35rem 3rem 0 3rem;
+      }
+
+      .about_desr_btn .btn_lg {
+      padding: 1.5rem 2.5rem;
+      }
+
+
+      .about_images{
+        margin: -5rem 0 0 3rem;
+        overflow: hidden;
+      }
+
+      .about_pics_intro_text{
+        font-size: 2rem;
+      }
+
+      .about_arrow_pics img{
+        left:-5rem;
+      }
+
+
+      .about_img_description{
+        width: 15%;
+        z-index: 5;
+        left: 0rem;
+      }
+
+      .about_flower{
+        left:10rem;
+      }
+      .about_right_img_txt{
+        margin: -14rem 0 0 0;
+      }
+
+      .about_img_description{
+        font-size: 1rem;
+        width: 25%;
+      }
+
+
+
+
+
+
+        .selcted_works_wrapper{
+          height: 220vh;
+          min-height: 1200px;
+          padding: 5rem 0;
+        }
+
+        .project{
+          min-height: 400px;
+          height:70vh;
+        }
+
+        .works1_text{
+          text-align: left;
+          margin: 0 0 2rem 3rem;
+        }
+        .selected_works_title{
+          font-size: 5rem;
+          line-height: 1;
+          overflow: hidden;
+        }
+        .selected_works_heading_small{
+          font-size: 4rem;
+        }
+        .works1_text p{
+          width: 25%;
+          margin: 0 0 0 0;
+        }
+        .project_title{
+          font-size: 4rem;
+          padding-bottom: 0;
+        }
+        .project_num{
+          font-size:0.8rem;
+          margin: 1rem 0 0 0;
+        }
+        .project_date {
+          font-size: 0.6rem;
+
+        }
+        .project_btn_wrapper{
+          margin:0;
+        }
+        .project_btn{
+          font-size: 0.45rem;
+          padding: 0.8rem 1.5rem;
+          width: 35%;
+        }
+
+        .project_arrow{
+          width: 21%;
+        }
+
+
+
+
+        .add-work_bg{
+          height: 150vh;
+          width: 100%;
+          min-height: 1000px;
+          overflow: hidden;
+          padding-top: 0;
+        }
+        .add_work_title{
+          margin: 0 auto;
+        }
+        .add_projects{
+          margin: 0 auto;
+          padding: 2.8rem 1.2rem;
+        }
+        .add_work_arrow{
+          right: 4rem;
+          width: 25px;
+          height: 25px;
+        }
+        .project_title{
+          overflow: hidden;
+        }
+        .add_projects .project_number_wrapper{
+          position: relative;
+          top:1.3rem;
+        }
+
+
+
+
+
+
+
+          .core_principles_wrapper{
+              height:410vh;
+              min-height: 2000px;
+          }
+          .core_principles_dome{
+            height: 380vh;
+            min-height: 1900px;
+            max-width: 1440px;
+            background-position: -10rem 0 0 0 ;
+            margin: -3rem 0 0 0;
+          }
+
+          .core_principles_dome .line_vertical{
+            height: 7.45rem;
+          }
+
+          .core_principles_button{
+              margin: 2rem 0 0 0;
+            }
+            .core_principles_btn{
+              margin: 2.5rem  2rem;
+            }
+          .core_principles_text{
+              width: 100%;
+              margin: 0 0 0 0rem ;
+            }
+          .core_principles_descr{
+              left:0;
+            }
+          .works1_text p{
+              width: 20%;
+              left: -5rem;
+              top:-2rem;
+            }
+          .core_principles_text p{
+                width: 30%;
+                left: -3rem;
+                top:1.5rem;
+            }
+          .bonus_text{
+                margin: 2rem 0 0 0;
+            }
+          .bonus_snippets_description{
+                width: 40%;
+                left:0;
+            }
+          .lottie_with_text{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+          .lottie_set-wrapper{
+                gap: 0rem;
+                margin: 0 0 0 0;
+                flex-direction: column;
+            }
+          .lottie_bg{
+                height:50vh;
+                min-width: 200px;
+                min-height: 280px;
+                width: 14rem;
+                overflow: hidden;
+            }
+          .lottie_glass_bg{
+                overflow: hidden;
+            }
+          .lottie_description{
+                width: 70%;
+                margin: 1rem 0;
+                left:0;
+            }
+          .lottie1, .lottie3{
+              margin-top: 0rem;
+            }
+          .lottie2{
+                margin: 0rem 0 0 0;
+                overflow: hidden;
+            }
+          .l2{
+                overflow: hidden;
+            }
+
+
+
+
+
+                .cta_bg_wrapper{
+                  height: 70vh;
+                  min-height: 450px;
+                  width: 100%;
+                  padding: 1.5rem 0 0 0;
+                }
+                .cta_bg{
+                  height: 60vh;
+                  min-height: 350px;
+                  width: 95%;
+                  padding: 0 0 0 0rem;
+                }
+                .cta_text_wrapper{
+                  margin: 2rem 0 0 0;
+                  padding: 4rem 0 0 2rem ;
+                  width: 100%;
+                }
+                .cta_text_title{
+                  overflow: hidden;
+                  display: inline !important;
+                  font-size: 5rem;
+                  width: 100%;
+                }
+                .cta_top{
+                  gap: 1rem;
+                }
+                .cta_bottom{
+                  margin: 1rem 0 0 0;
+                  gap:2rem;
+                }
+                .cta_description{
+                  display: block;
+                  position: relative;
+                  margin: 4.5rem 0 0 14.5rem;
+                  width: 100%;
+                  padding: 0;
+                }
+                .cta_text_heading_small{
+                  font-size: 3.5rem;
+                  font-weight: 200;
+                }
+                .cta_btn{
+                  padding: 1.5rem 1.5rem;
+                  width: 43%;
+                  font-size: 0.8rem;
+                  margin: 0 0 0 -21rem;
+                  display: inline !important;
+                }
+                .envelope{
+                  width: 16%;
+                  top: 0rem;
+                  margin:0;
+                  padding:0 0 0 1rem;
+                  display: inline !important;
+                }
+                .cta_description{
+                  display: inline;
+                  position: relative;
+                  margin: 0;
+                  width: 100%;
+                  padding: 0;
+                  left:-4rem !important;
+                  width: 35% !important;
+                  top: 0rem !important;
+                }
+
+
+
+
+
+
+
+  }
+
+
+
+
 /* XS PHONE SCREEN */
 
 /* @media (max-width: 475px){
