@@ -2333,6 +2333,7 @@
 @media (max-width: 414px){
   body{
     border:2px solid blue;
+    border:3px solid green;
   }
   .site_body_wrapper{
     overflow-x: hidden;
@@ -2345,7 +2346,7 @@
     overflow-x: hidden;
   }
   .hero_content_wrapper{
-    max-width: 620px;
+    /* max-width: 620px; */
 
     align-items: center;
     justify-content: center;
@@ -2741,7 +2742,7 @@
                 justify-content:  space-between;
                 width: 100%;
                 padding: 0 0rem;
-                overflow-x:hidden; 
+                overflow-x:hidden;
               }
 
               .social_media_set_wrapper{
