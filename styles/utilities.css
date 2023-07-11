@@ -47,7 +47,28 @@
     min-height: 500px;
     width: 50%;
   }
+  .line_accent{
+    display: flex;
+    flex-direction: column;
+    align-items:left;
+    margin: 0 0 2.3rem 0;
+    border: 0 solid red;
+  }
+  .line_vertical{
+    /* background-color: green; */
+    height: 8.75rem;
+    /* width: 1rem; */
+    margin: 0 0 0 2.75rem;
+    border: 0px solid red;
+    border-left: 2px dashed #c2827e;
+  }
 
+  .line_horizontal{
+    width: 5.5rem;
+    /* height: 1rem; */
+    border:0;
+    border-top: 2px dashed #c2827e;
+  }
 
 
   .about_section_wrapper{
@@ -2697,19 +2718,170 @@
 
 
 
-
+/* MY PHONE (UNDER 414PX WIDTH)  */
 @media(max-width: 414px) {
   body{
-    border: 5px solid yellow;
+    /* border: 5px solid yellow; */
+    overflow-x: hidden;
   }
   .hero_content_wrapper {
-    max-width: 200px;
-    border: 3px solid pink;
+    max-width: 400px;
+    /* border: 3px solid pink; */
     /* min-height: 800px; */
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     display: flex;
     padding: 3rem 0.75rem 0 0.75rem;
+  }
+  .title_cap_lg, .title_cap_md{
+    font-size: 3rem;
+    letter-spacing: 0;
+  }
+
+  .description_caps{
+    font-size: 0.5rem;
+    line-height: 1.8;
+    margin: 0 0 0rem 0;
+  }
+
+  .description_para{
+    font-size: 0.4rem;
+    padding: 0;
+    line-height: 1.5;
+  }
+
+  .hero_content_row1{
+  gap: 1rem;
+  }
+
+  .btn_lg{
+    padding: 1rem 1.5rem;
+    font-size: 0.4rem;
+  }
+
+  .hero_content_row2{
+    gap: 2rem;
+  }
+
+  .flower_accent{
+    width: 2rem;
+    right: 2rem;
+
+  }
+
+
+
+
+
+
+  .intro_wrapper{
+    width: 100%;
+    min-height: 500px;
+    height: 50vh;
+  }
+
+  .intro_content{
+    max-width: 700px;
+    min-height: 500px;
+    width: 90%;
+
+  }
+  .line_vertical {
+    border: 0px solid red;
+    border-left: 2px dashed #c2827e;
+    margin: 0 0 0 0.75rem;
+    height: 4.75rem;
+  }
+  .line_horizontal {
+  width: 1.5rem;
+  border: 0;
+  border-top: 2px dashed #c2827e
+  }
+  .about_dome .line_vertical {
+    height: 4.45rem;
+  }
+
+  .intro_description{
+    color:#353535;
+    font-size: 1.0rem;
+    font-weight: 300;
+    line-height: 2rem;
+  }
+
+
+
+
+
+
+    .about_section_wrapper{
+      height: 210vh;
+      min-height:1200px;
+    }
+
+
+    .sentence_case_heading{
+      font-size: 3.5rem;
+    }
+    .about_dome{
+      height: 180vh;
+      width: 100%;
+      max-width: 768px;
+      min-height: 1000px;
+      overflow: hidden;
+
+    }
+
+    .about_description{
+      width: 50%;
+    }
+
+    .about_desr_btn{
+      width:100%;
+      gap: 3rem;
+      padding: 1.35rem 1rem 0 1rem;
+    }
+
+    .about_desr_btn .btn_lg {
+    padding: 1rem 1.5rem;
+    }
+
+
+    .about_images{
+      margin: -5rem 0 0 3rem;
+      overflow: hidden;
+    }
+
+    .about_pics_intro_text{
+      font-size: 2rem;
+    }
+
+    .about_arrow_pics img{
+      left:-5rem;
+    }
+
+
+    .about_img_description{
+      width: 15%;
+      z-index: 5;
+      left: 0rem;
+    }
+
+    .about_flower{
+      left:10rem;
+    }
+    .about_right_img_txt{
+      margin: -14rem 0 0 0;
+    }
+
+    .about_img_description{
+      font-size: 0.6rem;
+      width: 25%;
+    }
+
+
+
+
+
 
 }
 
