@@ -131,6 +131,9 @@
   .project2{
     background-position: left top;
   }
+  .project_btn_wrapper{
+    visibility: visible;
+  }
 
 
 
@@ -2902,7 +2905,7 @@
           }
 
           .project{
-            min-height: 400px;
+            min-height: 360px;
             height:50vh;
           }
 
@@ -2928,7 +2931,7 @@
               top:0rem;
             }
           .project_title{
-            font-size: 2.5rem;
+            font-size: 2rem;
             padding-bottom: 0;
           }
           .project_num{
@@ -2941,6 +2944,7 @@
           }
           .project_btn_wrapper{
             margin:0;
+            visibility: none;
           }
           .project_btn{
             font-size: 0.35rem;

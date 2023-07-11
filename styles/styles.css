@@ -17,6 +17,10 @@ html {
   /* scroll-behavior: initial; */
   overflow-x: hidden;
 }
+@font-face {
+  font-family: melodrama;
+  src: url(melodrama.css);
+}
 
 
 
@@ -393,7 +397,7 @@ html {
   font-weight: 400;
   color: #e09792;
   width: 100%;
-  line-height:normal; 
+  line-height:normal;
 
 
 }
@@ -539,6 +543,7 @@ html {
   position: absolute;
   right:0;
   bottom: 0;
+  visibility: visible;
 }
 .project_num{
   font-size: 1.05rem;
