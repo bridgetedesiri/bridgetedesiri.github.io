@@ -396,6 +396,13 @@
     max-width: 1536px;
     min-height: 800px;
     visibility: visible;
+    display: flex;
+  }
+  .hero_content_wrapper_mobile{
+    visibility: hidden;
+    display: none;
+    /* opacity: 0; */
+
   }
 
   .description_para{
@@ -750,6 +757,13 @@
     max-width: 1536px;
     min-height: 800px;
     visibility: visible;
+    display: flex;
+  }
+  .hero_content_wrapper_mobile{
+    visibility: hidden;
+    display: none;
+    /* opacity: 0; */
+
   }
   .flower_accent{
     right: 8rem;
@@ -1118,7 +1132,13 @@
     max-width: 1400px;
     min-height: 800px;
     padding: 6rem 0;
-    visibility: visible;
+    display: flex;
+  }
+  .hero_content_wrapper_mobile{
+    visibility: hidden;
+    display: none;
+    /* opacity: 0; */
+
   }
   .hero_content_row1{
   gap: 2rem;
@@ -1462,7 +1482,13 @@
     justify-content: center;
     display: flex;
     padding: 2rem 2rem;
-    visibility: visible;
+    display: flex;
+  }
+  .hero_content_wrapper_mobile{
+    visibility: hidden;
+    display: none;
+    /* opacity: 0; */
+
   }
   .title_cap_lg, .title_cap_md{
     font-size: 9rem;
@@ -1898,6 +1924,13 @@
     padding: 3rem 0.75rem 0 0.75rem;
     visibility: visible;
     display: flex;
+  }
+
+  .hero_content_wrapper_mobile{
+  visibility: hidden;
+  display: none;
+  /* opacity: 0; */
+
   }
   .hero_content_wrapper_mobile{
     visibility: hidden;
