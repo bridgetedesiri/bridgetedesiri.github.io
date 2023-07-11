@@ -2944,7 +2944,7 @@
           }
           .project_btn_wrapper{
             margin:0;
-            visibility: none;
+            visibility: hidden;
           }
           .project_btn{
             font-size: 0.35rem;
