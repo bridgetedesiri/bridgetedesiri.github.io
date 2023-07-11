@@ -2731,6 +2731,9 @@
 
 /* MY PHONE (UNDER 414PX WIDTH)  */
 @media(max-width: 414px) {
+  .site_body_wrapper{
+    overflow-x: hidden;
+  }
   body{
     /* border: 5px solid yellow; */
     overflow-x: hidden;
