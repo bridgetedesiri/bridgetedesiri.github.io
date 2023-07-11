@@ -148,8 +148,7 @@
   .add_work_title{
     max-width: 1536px;
     margin: 0 auto;
-
-
+    font-size: 1.8rem;
   }
   .add_projects{
     max-width: 1536px;
@@ -2899,8 +2898,8 @@
 
 
           .selcted_works_wrapper{
-            height: 220vh;
-            min-height: 1200px;
+            height: 134vh;
+            min-height: 1100px;
             padding: 5rem 0;
           }
 
@@ -2968,6 +2967,7 @@
           }
           .add_work_title{
             margin: 0 auto;
+            font-size: 0.8rem;
           }
           .add_projects{
             margin: 0 auto;
