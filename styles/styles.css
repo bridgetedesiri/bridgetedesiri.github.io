@@ -82,6 +82,9 @@ html {
 
 .hero_content_wrapper_mobile{
   visibility: hidden;
+  display: none;
+  /* opacity: 0; */
+
 }
 
 .hero_content_wrapper{
@@ -92,6 +95,7 @@ html {
   height: 90vh;
   padding: 4rem 7rem 0 7rem;
   visibility: visible;
+  /* opacity: 100%; */
 }
 
 .hero_content_row1{

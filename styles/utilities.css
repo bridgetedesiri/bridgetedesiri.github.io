@@ -17,6 +17,12 @@
     max-width: 1536px;
     min-height: 800px;
     visibility: visible;
+    display: flex;
+  }
+  .hero_content_wrapper_mobile{
+    visibility: hidden;
+    /* opacity: 0; */
+    display: none;
   }
 
   .description_para{
@@ -1891,6 +1897,11 @@
     display: flex;
     padding: 3rem 0.75rem 0 0.75rem;
     visibility: visible;
+    display: flex;
+  }
+  .hero_content_wrapper_mobile{
+    visibility: hidden;
+    display: none;
   }
   .title_cap_lg, .title_cap_md{
     font-size: 6rem;
@@ -2336,7 +2347,7 @@
 /* PHONE SCREEN */
 
 
-@media (max-width: 414px){
+@media (max-width: 450px){
   body{
     border:2px solid blue;
     border:3px solid green;
@@ -2360,11 +2371,14 @@
     display: flex;
     padding: 3rem 0.75rem 0 0rem;
     visibility: hidden;
+    display: none;
+
 
   }
 
   .hero_content_wrapper_mobile{
     visibility: visible;
+    display: flex;
   }
 
   .title_cap_lg, .title_cap_md{
