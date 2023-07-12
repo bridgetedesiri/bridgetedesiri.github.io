@@ -2386,9 +2386,9 @@
     border:3px solid green;
     border: 4px solid purple;
   }
-  .site_body_wrapper{
+  /* .site_body_wrapper{
     overflow-x: hidden;
-  }
+  } */
   .hero_section_bg{
     width: 100%;
     height: 70vh;
@@ -2403,8 +2403,8 @@
     justify-content: center;
     display: flex;
     padding: 3rem 0.75rem 0 0rem;
-    visibility: hidden;
-    display: none;
+    /* visibility: hidden;
+    display: none; */
 
 
   }
