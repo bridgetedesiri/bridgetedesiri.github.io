@@ -178,6 +178,10 @@
     overflow: hidden;
     padding: 0 0 0rem 0;
   }
+  .menu__item-image {
+  	 height: 22rem;
+  	 width: 38rem;
+   }
 
 
 
@@ -535,6 +539,10 @@
     overflow: hidden;
     padding: 0 0 0rem 0;
   }
+  .menu__item-image {
+  	 height: 22rem;
+  	 width: 38rem;
+   }
 
 
 
@@ -911,6 +919,10 @@
     overflow-clip-margin: hidden;
     overflow: hidden;
 }
+.menu__item-image {
+   height: 22rem;
+   width: 38rem;
+ }
 
 
 
@@ -1278,6 +1290,10 @@
   .project_title{
     overflow: hidden;
   }
+  .menu__item-image {
+  	 height: 22rem;
+  	 width: 38rem;
+   }
 
 
 
@@ -1676,6 +1692,7 @@
 
 
 
+
   .add-work_bg{
     height: 150vh;
     width: 100%;
@@ -1698,6 +1715,10 @@
   .project_title{
     overflow: hidden;
   }
+  .menu__item-image {
+  	 height: 22rem;
+  	 width: 38rem;
+   }
 
 
 
@@ -2169,6 +2190,10 @@
     position: relative;
     top:1.3rem;
   }
+  .menu__item-image {
+  	 height: 22rem;
+  	 width: 38rem;
+   }
 
 
 
@@ -2687,6 +2712,10 @@
         position: relative;
         top:1.3rem;
       }
+      .menu__item-image {
+      	 height: 0;
+      	 width: 0;
+       }
 
 
 
