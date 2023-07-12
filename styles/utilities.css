@@ -112,6 +112,14 @@
     width: 100%;
     line-height:normal;
   }
+  .img_right{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top:5rem;
+  }
 
   .about_flower{
     left:20rem;
@@ -462,6 +470,14 @@
     width: 15%;
     z-index: 5;
     left: 15rem;
+  }
+  .img_right{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top:5rem;
   }
 
   .about_flower{
@@ -821,6 +837,7 @@
   }
 
 
+
   .about_images{
     margin: 0 0 0 8rem;
   }
@@ -829,6 +846,14 @@
     width: 15%;
     z-index: 5;
     left: 5rem;
+  }
+  .img_right{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top:5rem;
   }
 
   .about_flower{
@@ -1187,6 +1212,14 @@
     max-width: 2000px;
     border-radius: 5000px;
     min-height: 2000px;
+  }
+  .img_right{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top:5rem;
   }
 
   .about_description{
@@ -1558,6 +1591,14 @@
     height: 240vh;
     min-height:1600px;
   }
+  .img_right{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-top:5rem;
+  }
 
 
   .sentence_case_heading{
@@ -1926,12 +1967,12 @@
     display: flex;
   }
 
-  .hero_content_wrapper_mobile{
+  /* .hero_content_wrapper_mobile{
   visibility: hidden;
   display: none;
   /* opacity: 0; */
 
-  }
+  } */
   .hero_content_wrapper_mobile{
     visibility: hidden;
     display: none;
@@ -2435,8 +2476,8 @@
   }
 
   .btn_lg{
-    padding: 1.5rem 2.5rem;
-    font-size: 0.7rem;
+    padding: 1rem 1.5rem;
+    font-size: 0.5rem;
   }
 
   .hero_content_row2{
@@ -2461,8 +2502,22 @@
   .intro_content{
     max-width: 700px;
     min-height: 500px;
-    width: 70%;
+    width: 90%;
 
+  }
+  .line_vertical {
+    border: 0px solid red;
+    border-left: 2px dashed #c2827e;
+    margin: 0 0 0 0.75rem;
+    height: 4.75rem;
+  }
+  .line_horizontal {
+  width: 1.5rem;
+  border: 0;
+  border-top: 2px dashed #c2827e
+  }
+  .about_dome .line_vertical {
+    height: 4.45rem;
   }
   .intro_description{
     color:#353535;
@@ -2484,13 +2539,13 @@
 
 
     .sentence_case_heading{
-      font-size: 3.5rem;
+      font-size: 2.5rem;
     }
     .about_dome{
-      height: 180vh;
+      height: 150vh;
       width: 100%;
       max-width: 768px;
-      min-height: 1000px;
+      min-height: 870px;
       overflow: hidden;
 
     }
@@ -2502,7 +2557,7 @@
     .about_desr_btn{
       width:95%;
       gap: 3rem;
-      padding: 1.35rem 3rem 0 3rem;
+      padding: 1.35rem 0rem 0 0rem;
     }
 
     .about_desr_btn .btn_lg {
@@ -2516,11 +2571,19 @@
     }
 
     .about_pics_intro_text{
-      font-size: 2rem;
+      font-size: 1rem;
+    }
+    .img_right{
+      display: flex;
+      flex-direction: column;
+      justify-content:flex-start;
+      align-items: flex-start;
+      gap: 0rem;
+      margin-top:0rem;
     }
 
     .about_arrow_pics img{
-      left:-5rem;
+      left:-3rem;
     }
 
 
@@ -2538,8 +2601,8 @@
     }
 
     .about_img_description{
-      font-size: 1rem;
-      width: 25%;
+      font-size: 0.7rem;
+      width: 31%;
     }
 
 
