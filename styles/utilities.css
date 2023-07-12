@@ -2450,10 +2450,10 @@
 
   }
 
-  .hero_content_wrapper_mobile{
+  /* .hero_content_wrapper_mobile{
     visibility: visible;
     display: flex;
-  }
+  } */
 
   .title_cap_lg, .title_cap_md{
     font-size: 5rem;
