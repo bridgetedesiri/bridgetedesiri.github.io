@@ -2665,6 +2665,9 @@
         overflow-x: hidden;
 
       }
+      .hide_image_mobile{
+        display: none;
+      }
       .add_work_title{
         margin: 0 auto;
       }
