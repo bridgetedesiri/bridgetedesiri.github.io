@@ -2436,7 +2436,7 @@
 
 
   .title_cap_lg, .title_cap_md{
-    font-size: 5rem;
+    font-size: 4rem;
     letter-spacing: 0;
   }
 
@@ -2458,7 +2458,7 @@
 
   .btn_lg{
     padding: 1rem 1.5rem;
-    font-size: 0.5rem;
+    font-size: 0.45rem;
   }
 
   .hero_content_row2{
@@ -2520,7 +2520,7 @@
 
 
     .sentence_case_heading{
-      font-size: 2.5rem;
+      font-size: 2.25rem;
     }
     .about_dome{
       height: 60vh;
@@ -2611,16 +2611,19 @@
         font-size: 3rem;
         line-height: 1;
         overflow: hidden;
+        letter-spacing: 0.1rem;
       }
+
       .selected_works_heading_small{
         font-size: 2.5rem;
+
       }
-      .works1_text p{
+      /* .works1_text p{
         width: 25%;
         margin: 0 0 0 0;
-      }
+      } */
       .works1_text p{
-          width: 33%;
+          width: 34%;
           left: -3rem;
           top:0rem;
         }
