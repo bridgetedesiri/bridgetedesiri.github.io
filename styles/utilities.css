@@ -2484,8 +2484,8 @@
 
 
     .about_section_wrapper{
-      height: 210vh;
-      min-height:1200px;
+      height: 115vh;
+      min-height:1000px;
       overflow-x: hidden;
     }
 
@@ -2494,10 +2494,10 @@
       font-size: 2.5rem;
     }
     .about_dome{
-      height: 150vh;
+      height: 110vh;
       width: 100%;
       max-width: 768px;
-      min-height: 870px;
+      min-height: 800px;
       overflow: hidden;
 
     }
@@ -2553,7 +2553,7 @@
     }
 
     .about_img_description{
-      font-size: 0.7rem;
+      font-size: 0.5rem;
       width: 31%;
     }
 
@@ -2579,32 +2579,38 @@
         margin: 0 0 2rem 3rem;
       }
       .selected_works_title{
-        font-size: 5rem;
+        font-size: 3rem;
         line-height: 1;
         overflow: hidden;
       }
       .selected_works_heading_small{
-        font-size: 4rem;
+        font-size: 2.5rem;
       }
       .works1_text p{
         width: 25%;
         margin: 0 0 0 0;
       }
-      .project_title{
-        font-size: 4rem;
-        padding-bottom: 0;
-      }
-      .project_num{
-        font-size:0.8rem;
-        margin: 1rem 0 0 0;
-      }
-      .project_date {
-        font-size: 0.6rem;
+      .works1_text p{
+          width: 33%;
+          left: -3rem;
+          top:0rem;
+        }
+        .project_title{
+          font-size: 2rem;
+          padding-bottom: 0;
+        }
+        .project_num{
+          font-size:0.5rem;
+          margin: 1rem 0 0 0;
+        }
+        .project_date {
+          font-size: 0.4rem;
 
-      }
-      .project_btn_wrapper{
-        margin:0;
-      }
+        }
+        .project_btn_wrapper{
+          margin:0;
+          visibility: hidden;
+        }
       .project_btn{
         font-size: 0.45rem;
         padding: 0.8rem 1.5rem;
