@@ -80,12 +80,7 @@ html {
     background-image: linear-gradient(to right, rgba(255, 252, 229, 0), rgba(255, 252, 229, 0.1), rgba(255, 252, 229, 0));
 }
 
-/* .hero_content_wrapper_mobile{
-  visibility: hidden;
-  display: none;
-  /* opacity: 0; */
 
-} */
 
 .hero_content_wrapper{
   display: flex;
@@ -94,8 +89,7 @@ html {
   /* background-color: green; */
   height: 90vh;
   padding: 4rem 7rem 0 7rem;
-  visibility: visible;
-  /* opacity: 100%; */
+
 }
 
 .hero_content_row1{

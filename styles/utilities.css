@@ -16,14 +16,8 @@
   .hero_content_wrapper{
     max-width: 1536px;
     min-height: 800px;
-    visibility: visible;
-    display: flex;
   }
-  .hero_content_wrapper_mobile{
-    visibility: hidden;
-    /* opacity: 0; */
-    display: none;
-  }
+
 
   .description_para{
     font-weight:500;
@@ -195,7 +189,6 @@
     min-height:2700px;
     height:300vh;
     border-radius: 5000px;
-
     align-items: center;
   }
 
@@ -403,14 +396,6 @@
   .hero_content_wrapper{
     max-width: 1536px;
     min-height: 800px;
-    visibility: visible;
-    display: flex;
-  }
-  .hero_content_wrapper_mobile{
-    visibility: hidden;
-    display: none;
-    /* opacity: 0; */
-
   }
 
   .description_para{
@@ -772,15 +757,8 @@
   .hero_content_wrapper{
     max-width: 1536px;
     min-height: 800px;
-    visibility: visible;
-    display: flex;
   }
-  .hero_content_wrapper_mobile{
-    visibility: hidden;
-    display: none;
-    /* opacity: 0; */
 
-  }
   .flower_accent{
     right: 8rem;
   }
@@ -1157,14 +1135,8 @@
     max-width: 1400px;
     min-height: 800px;
     padding: 6rem 0;
-    display: flex;
   }
-  .hero_content_wrapper_mobile{
-    visibility: hidden;
-    display: none;
-    /* opacity: 0; */
 
-  }
   .hero_content_row1{
   gap: 2rem;
   }
@@ -1515,14 +1487,9 @@
     justify-content: center;
     display: flex;
     padding: 2rem 2rem;
-    display: flex;
-  }
-  .hero_content_wrapper_mobile{
-    visibility: hidden;
-    display: none;
-    /* opacity: 0; */
 
   }
+
   .title_cap_lg, .title_cap_md{
     font-size: 9rem;
     letter-spacing: 0.5;
@@ -1963,16 +1930,9 @@
     justify-content: center;
     display: flex;
     padding: 3rem 0.75rem 0 0.75rem;
-    visibility: visible;
-    display: flex;
   }
 
-  /* .hero_content_wrapper_mobile{
-  visibility: hidden;
-  display: none;
-  /* opacity: 0; */
 
-  } */
   .hero_content_wrapper_mobile{
     visibility: hidden;
     display: none;
@@ -2444,16 +2404,8 @@
     justify-content: center;
     display: flex;
     padding: 3rem 0.75rem 0 0rem;
-    /* visibility: hidden;
-    display: none; */
-
-
   }
 
-  /* .hero_content_wrapper_mobile{
-    visibility: visible;
-    display: flex;
-  } */
 
   .title_cap_lg, .title_cap_md{
     font-size: 5rem;
