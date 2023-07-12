@@ -171,6 +171,10 @@
     padding: 2.8rem 1.2rem;
 
   }
+  .add_project_name_date{
+    margin-top: -3.25rem;
+    margin-left: 6rem;
+  }
   .add_work_arrow{
     right: 35rem;
   }
@@ -522,6 +526,7 @@
   .add_work_title{
     max-width: 1536px;
     margin: 0 auto;
+    font-size: 1.8rem;
 
 
   }
@@ -531,6 +536,10 @@
 
     padding: 2.8rem 1.2rem;
 
+  }
+  .add_project_name_date{
+    margin-top: -3.25rem;
+    margin-left: 6rem;
   }
   .add_work_arrow{
     right: 17rem;
@@ -895,9 +904,14 @@
     overflow: hidden;
     padding-top: 0;
   }
+  .add_project_name_date{
+    margin-top: -3.25rem;
+    margin-left: 6rem;
+  }
   .add_work_title{
     margin: 0 auto;
     padding: 0 0 2rem 0;
+    font-size: 1.8rem;
   }
   .add_projects{
     margin: 0 auto;
@@ -1277,8 +1291,13 @@
     border:none;
     border:0;
   }
+  .add_project_name_date{
+    margin-top: -3.25rem;
+    margin-left: 6rem;
+  }
   .add_work_title{
     margin: 0 auto;
+    font-size: 1.8rem;
   }
   .add_projects{
     margin: 0 auto;
@@ -1702,8 +1721,13 @@
     border: none;
     border:0;
   }
+  .add_project_name_date{
+    margin-top: -3.25rem;
+    margin-left: 6rem;
+  }
   .add_work_title{
     margin: 0 auto;
+    font-size: 1.8rem;
   }
   .add_projects{
     margin: 0 auto;
@@ -2175,6 +2199,7 @@
   }
   .add_work_title{
     margin: 0 auto;
+    font-size: 1.8rem;
   }
   .add_projects{
     margin: 0 auto;
@@ -2617,8 +2642,8 @@
 
 
       .selcted_works_wrapper{
-        height: 220vh;
-        min-height: 1200px;
+        height: 115vh;
+        min-height: 1130px;
         padding: 5rem 0;
         overflow-x: hidden;
       }
@@ -2695,14 +2720,19 @@
       }
       .add_work_title{
         margin: 0 auto;
+        font-size: 1rem;
       }
       .add_projects{
         margin: 0 auto;
         padding: 2.8rem 1.2rem;
       }
+      .add_project_name_date{
+        margin-top: -4rem;
+        margin-left: 3rem;
+      }
       .add_work_arrow{
         right: 4rem;
-        width: 25px;
+        width: 12px;
         height: 25px;
       }
       .project_title{
