@@ -2705,7 +2705,7 @@
       }
 
       .selected_works_heading_small{
-        font-size: 2.5rem;
+        font-size: 2.25rem;
 
       }
       /* .works1_text p{
@@ -2713,7 +2713,7 @@
         margin: 0 0 0 0;
       } */
       .works1_text p{
-          width: 29%;
+          width: 34%;
           left: 0rem;
           top:0rem;
         }
@@ -2832,9 +2832,9 @@
             left:0;
           }
         .works1_text p{
-            width: 20% !important;
-            left: -5rem !important;
-            top:-2rem !important;
+            width: 34% !important;
+            left: 0rem !important;
+            top:0rem !important;
             /* margin: 0; */
           }
         .core_principles_text p{
