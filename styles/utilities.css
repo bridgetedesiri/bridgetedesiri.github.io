@@ -2748,9 +2748,9 @@
 
 
       .add-work_bg{
-        height: 150vh;
+        height: 115vh;
         width: 100%;
-        min-height: 1000px;
+        min-height: 920px;
         overflow: hidden;
         padding-top: 0;
         overflow-x: hidden;
