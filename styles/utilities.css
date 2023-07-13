@@ -2829,14 +2829,16 @@
             left:0;
           }
         .works1_text p{
-            width: 20%;
-            left: -5rem;
-            top:-2rem;
+            width: 20% !important;
+            left: -5rem !important;
+            top:-2rem !important;
+            margin: 0;
           }
         .core_principles_text p{
-              width: 44%;
-              left: 0rem;
-              top:-0.5rem;
+              width: 44% !important;
+              left: 0rem !important;
+              top:-0.5rem !important;
+              margin: 0;
           }
         .bonus_text{
               margin: 2rem 0 0 0;
