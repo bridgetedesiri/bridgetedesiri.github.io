@@ -148,6 +148,9 @@
   .project_btn_wrapper{
     visibility: visible;
   }
+  .project_name_date{
+    margin: 0 0 0 4rem;
+  }
 
 
 
@@ -383,6 +386,13 @@
     }
 
 
+    .menu__item-text {
+   	 line-height: 100px;
+   	 height: 100px;
+     }
+
+
+
 
 
 
@@ -510,6 +520,9 @@
   }
   .project2{
     background-position: left top;
+  }
+  .project_name_date{
+    margin: 0 0 0 4rem;
   }
 
 
@@ -751,6 +764,10 @@
             text-align: right;
             margin: 0 3.8rem 0 0;
           }
+          .menu__item-text {
+         	 line-height: 100px;
+         	 height: 100px;
+           }
 
 
 
@@ -892,6 +909,9 @@
     overflow: hidden;
     padding: 0;
     margin:-2rem 0 0 0;
+  }
+  .project_name_date{
+    margin: 0 0 0 4rem;
   }
 
 
@@ -1156,6 +1176,10 @@
     text-align: right;
     margin: 0 3.8rem 0 0;
   }
+  .menu__item-text {
+   line-height: 100px;
+   height: 100px;
+   }
 
 }
 
@@ -1272,7 +1296,9 @@
   .project{
     min-height: 600px;
     background-position: left top;
-
+  }
+  .project_name_date{
+    margin: 0 0 0 4rem;
   }
 
   .works1_text{
@@ -1519,6 +1545,10 @@
       text-align: right;
       margin: 0 3.8rem 0 0;
     }
+    .menu__item-text {
+   	 line-height: 100px;
+   	 height: 100px;
+     }
 
 
 
@@ -1706,6 +1736,9 @@
   .project_title{
     font-size: 6rem;
     padding-bottom: 0;
+  }
+  .project_name_date{
+    margin: 0 0 0 4rem;
   }
 
 
@@ -1958,6 +1991,10 @@
       text-align: right;
       margin: 0 3.8rem 0 0;
     }
+    .menu__item-text {
+   	 line-height: 100px;
+   	 height: 100px;
+     }
 
 
 
@@ -2678,7 +2715,7 @@
           top:0rem;
         }
         .project_title{
-          font-size: 2rem;
+          font-size: 1.5rem;
           padding-bottom: 0;
         }
         .project_num{
@@ -2702,6 +2739,10 @@
       .project_arrow{
         width: 21%;
       }
+      .project_name_date{
+        margin: 0 0 0 1rem;
+      }
+
 
 
 
@@ -2728,7 +2769,7 @@
       }
       .add_project_name_date{
         margin-top: -4rem;
-        margin-left: 3rem;
+        margin-left: 2rem;
       }
       .add_work_arrow{
         right: 4rem;
@@ -2738,6 +2779,10 @@
       .project_title{
         overflow: hidden;
       }
+      .menu__item-text {
+     	 line-height: 100px;
+     	 height: 71px;
+       }
       .add_projects .project_number_wrapper{
         position: relative;
         top:1.3rem;
