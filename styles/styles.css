@@ -100,7 +100,7 @@ html {
 }
 
 .title_cap_lg, .title_cap_md{
-  font-family: melodrama;
+  font-family: melodrama, 'Cinzel', serif;
   font-weight: normal;
   text-transform: uppercase;
   font-size: 15rem;
@@ -308,7 +308,7 @@ html {
 }
 
 .sentence_case_heading{
-  font-family: melodrama;
+  font-family: melodrama, 'Cinzel', serif;
   font-size: 7.3rem;
   color:#353535;
   font-weight: 300;
@@ -481,7 +481,7 @@ html {
   align-items: flex-end;
 }
 .selected_works_title{
-  font-family: melodrama;
+  font-family: melodrama, 'Cinzel', serif;
   font-size: 12rem;
   color:#353535;
   font-weight: 300;
@@ -537,7 +537,7 @@ html {
 }
 .project_title{
   font-size: 7.2rem;
-  font-family: melodrama;
+  font-family: melodrama, 'Cinzel', serif;
   text-transform: uppercase;
   font-weight: 400;
   margin:-2rem 0 0 0;
@@ -1050,7 +1050,7 @@ html {
 
 
    font-size: 7rem;
-   font-family: melodrama;
+   font-family: melodrama, 'Cinzel', serif;
    text-transform: uppercase;
    font-weight: 400;
    margin:0;
