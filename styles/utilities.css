@@ -964,10 +964,11 @@
 
 
 .core_principles_wrapper{
-    height:360vh;
+    height:370vh;
     min-height: 2850px;
     border:0;
     border: none;
+    padding-top: 14rem;
 
 }
 .core_principles_dome{
