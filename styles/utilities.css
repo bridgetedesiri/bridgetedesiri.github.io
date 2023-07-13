@@ -1064,7 +1064,7 @@
     height: 97vh;
     min-height: 880px;
     width: 100%;
-    padding: 5rem 0 0 0;
+    padding: 12rem 0 0 0;
     border: none;
   }
   .cta_bg{
@@ -2975,9 +2975,9 @@
 
               .social_media_set_wrapper{
                 display: flex;
-                flex-direction: column;
+                flex-direction: row;
                 gap:0rem;
-                padding:0 0 0 11px;
+                padding:3rem 0 0 11px;
                 align-items: flex-start;
                 justify-content: flex-start;
                 margin: 0 0 0 0rem;
@@ -3000,8 +3000,8 @@
               .social_media_btn{
                 margin: 0;
                 display: flex;
-                font-size: 0.4rem;
-                padding: 0.4rem 0.2rem;
+                font-size: 0.3rem;
+                padding: 0.4rem 0.1rem;
               }
               .social_media_btn_wrapper embed {
               width: 22%;
