@@ -2501,9 +2501,9 @@
 
 @media (max-width: 450px){
   body{
-    border:2px solid blue;
+    /* border:2px solid blue;
     border:3px solid green;
-    border: 4px solid purple;
+    border: 4px solid purple; */
   }
   /* .site_body_wrapper{
     overflow-x: hidden;
