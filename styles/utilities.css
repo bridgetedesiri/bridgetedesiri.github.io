@@ -2736,7 +2736,7 @@
       .project_btn{
         font-size: 0.45rem;
         padding: 0.8rem 1.5rem;
-        width: 44%;
+        width: 25%;
       }
 
       .project_arrow{
@@ -2980,7 +2980,7 @@
                 padding:0 0 0 11px;
                 align-items: flex-start;
                 justify-content: flex-start;
-                margin: 0 0 0 2.8rem;
+                margin: 0 0 0 0rem;
                 width: 100%;
                 position: relative;
                 visibility: visible;
@@ -3004,7 +3004,7 @@
                 padding: 0.4rem 0.2rem;
               }
               .social_media_btn_wrapper embed {
-              width: 19%;
+              width: 22%;
               }
               .copyright_wrapper{
                 display: flex;
