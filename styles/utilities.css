@@ -16,6 +16,7 @@
   .hero_content_wrapper{
     max-width: 1536px;
     min-height: 800px;
+    gap:0rem;
   }
 
 
@@ -420,6 +421,7 @@
   .hero_content_wrapper{
     max-width: 1536px;
     min-height: 800px;
+    gap:0rem;
   }
 
   .description_para{
@@ -803,6 +805,7 @@
   .hero_content_wrapper{
     max-width: 1536px;
     min-height: 800px;
+    gap:0rem;
   }
 
   .flower_accent{
@@ -1204,6 +1207,7 @@
     max-width: 1400px;
     min-height: 800px;
     padding: 6rem 0;
+    gap:0rem;
   }
 
   .hero_content_row1{
@@ -1576,6 +1580,7 @@
     justify-content: center;
     display: flex;
     padding: 2rem 2rem;
+    gap:0rem;
 
   }
 
@@ -2523,6 +2528,7 @@
     justify-content: center;
     display: flex;
     padding: 3rem 0.75rem 0 0.5rem;
+    gap:1rem;
   }
 
 

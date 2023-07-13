@@ -88,6 +88,7 @@ html {
   /* justify-content: center; */
   /* background-color: green; */
   height: 90vh;
+  gap:0;
   padding: 4rem 7rem 0 7rem;
 
 }
