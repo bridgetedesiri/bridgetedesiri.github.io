@@ -2833,7 +2833,7 @@
           }
         .works1_text p{
             width: 34% !important;
-            left: 0rem !important;
+            left: -1rem !important;
             top:0rem !important;
             /* margin: 0; */
           }
@@ -2908,7 +2908,7 @@
               }
               .cta_text_wrapper{
                 margin: 2rem 0 0 0;
-                padding: 4rem 0 0 2rem ;
+                padding: 4rem 0 0 0.5rem ;
                 width: 100%;
               }
               .cta_text_title{
