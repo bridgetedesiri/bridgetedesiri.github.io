@@ -2894,15 +2894,15 @@
 
 
               .cta_bg_wrapper{
-                height: 70vh;
-                min-height: 450px;
+                height: 37vh;
+                min-height: 300px;
                 width: 100%;
                 padding: 1.5rem 0 0 0;
                 overflow-x: hidden;
               }
               .cta_bg{
-                height: 60vh;
-                min-height: 350px;
+                height: 32vh;
+                min-height: 250px;
                 width: 95%;
                 padding: 0 0 0 0rem;
               }
@@ -2914,7 +2914,7 @@
               .cta_text_title{
                 overflow: hidden;
                 display: inline !important;
-                font-size: 5rem;
+                font-size: 3rem;
                 width: 100%;
               }
               .cta_top{
@@ -2932,21 +2932,21 @@
                 padding: 0;
               }
               .cta_text_heading_small{
-                font-size: 3.5rem;
+                font-size: 2.5rem;
                 font-weight: 200;
               }
               .cta_btn{
-                padding: 1.5rem 1.5rem;
-                width: 43%;
-                font-size: 0.8rem;
-                margin: 0 0 0 -21rem;
+                padding: 1rem 1.5rem;
+                width: 44%;
+                font-size: 0.5rem;
+                margin: 0 0 0 -14rem;
                 display: inline !important;
               }
               .envelope{
-                width: 16%;
+                width: 15%;
                 top: 0rem;
                 margin:0;
-                padding:0 0 0 1rem;
+                padding:0 0 0 0.5rem;
                 display: inline !important;
               }
               .cta_description{
