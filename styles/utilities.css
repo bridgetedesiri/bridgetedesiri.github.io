@@ -2680,7 +2680,7 @@
 
       .selcted_works_wrapper{
         height: 115vh;
-        min-height: 1130px;
+        min-height: 1150px;
         padding: 5rem 0;
         overflow-x: hidden;
       }
@@ -2773,8 +2773,8 @@
       }
       .add_work_arrow{
         right: 4rem;
-        width: 12px;
-        height: 25px;
+        width: 9px;
+        height:47px;
       }
       .project_title{
         overflow: hidden;
