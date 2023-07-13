@@ -2519,7 +2519,7 @@
   .hero_content_wrapper{
     /* max-width: 620px; */
 
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     display: flex;
     padding: 3rem 0.75rem 0 0rem;
