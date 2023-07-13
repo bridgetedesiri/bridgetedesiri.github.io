@@ -237,6 +237,7 @@
       margin: 15rem 0 0 0;
       text-align: center;
       justify-content: center;
+      padding-bottom: 5rem;
 
     }
     .bonus_snippets_description{
@@ -616,6 +617,7 @@
         margin: 15rem 0 0 0;
         text-align: center;
         justify-content: center;
+        padding-bottom: 5rem;
 
       }
       .bonus_snippets_description{
@@ -1009,6 +1011,7 @@
   }
   .bonus_text{
       margin: 10rem 0 0 0;
+      padding-bottom: 5rem;
   }
   .bonus_snippets_description{
       width: 24%;
@@ -2832,20 +2835,22 @@
             width: 20% !important;
             left: -5rem !important;
             top:-2rem !important;
-            margin: 0;
+            /* margin: 0; */
           }
         .core_principles_text p{
               width: 44% !important;
               left: 0rem !important;
               top:-0.5rem !important;
-              margin: 0;
+              /* margin: 0; */
           }
         .bonus_text{
               margin: 2rem 0 0 0;
+              padding-bottom: 3rem;
           }
         .bonus_snippets_description{
               width: 40%;
               left:0;
+              margin: 0 auto;
           }
         .lottie_with_text{
               display: flex;
