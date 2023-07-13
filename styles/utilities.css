@@ -2972,8 +2972,8 @@
 
 
               .footer_bg{
-                height: 14vh;
-                min-height: 100px;
+                height: 9vh;
+                min-height: 85px;
                 justify-content:  space-between;
                 width: 100%;
                 padding: 0 0rem;
