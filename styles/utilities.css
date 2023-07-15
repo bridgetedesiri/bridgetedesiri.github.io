@@ -2565,6 +2565,21 @@
   /* .site_body_wrapper{
     overflow-x: hidden;
   } */
+
+    .hamburger{
+      display: flex;
+    }
+    .nav_bar{
+      height: 30vh;
+      padding-top: 2rem;
+      background-color: brown;
+    }
+    .nav_row{
+      flex-direction: column;
+      gap:0;
+    }
+  
+
   .hero_section_bg{
     width: 100%;
     height: 70vh;
