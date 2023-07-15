@@ -81,6 +81,6 @@ requestAnimationFrame(raf);
 const hamburger = document.getElementsByClassName('hamburger')[0]
 const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 
-toggleButton.addEventListener('click', () => {
+hamburger.addEventListener('click', () => {
   navbarLinks.classList.toggle('active')
 })
