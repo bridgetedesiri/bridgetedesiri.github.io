@@ -4,6 +4,15 @@
 
 /* XLARGE DESKTOP SCREEN */
 @media(max-width: 2560px){
+
+  .nav_row{
+    max-width: 1800px;
+    gap:0rem;
+  }
+  .menu_item{
+    font-size: 0.85rem;
+    letter-spacing: 0.1rem;
+  }
   .hero_section_bg{
     width: 100%;
     min-height: 800px;
@@ -81,6 +90,7 @@
   .about_dome{
     height: 240vh;
     max-width: 2000px;
+
     border-radius: 5000px;
   }
 
@@ -408,7 +418,16 @@
 
 
 /* LARGE LAPTOP SCREEN */
+
 @media (max-width: 1920px){
+  .nav_row{
+    max-width: 1800px;
+    gap:0rem;
+  }
+  .menu_item{
+    font-size: 0.85rem;
+    letter-spacing: 0.1rem;
+  }
   .hero_section_bg{
     width: 100%;
     min-height: 800px;
@@ -793,6 +812,14 @@
 
 /* MY LAPTOP SCREEN */
 @media (max-width: 1536px){
+  .nav_row{
+    max-width: 1536px;
+    gap:32rem;
+  }
+  .menu_item{
+    font-size: 0.85rem;
+    letter-spacing: 0.1rem;
+  }
 
 
   .hero_section_bg{
@@ -853,7 +880,7 @@
   }
 
   .about_dome{
-    height: 265vh;
+    height: 270vh;
     max-width: 2000px;
     border-radius: 5000px;
   }
@@ -1197,6 +1224,14 @@
 /* SMALL LAPTOP SCREEN */
 
 @media (max-width: 1440px){
+  .nav_row{
+    max-width: 1440px;
+    gap:18rem;
+  }
+  .menu_item{
+    font-size: 0.85rem;
+    letter-spacing: 0.1rem;
+  }
 
   .hero_section_bg{
     width: 100%;
@@ -1568,6 +1603,14 @@
 /* XS LAPTOP SCREEN */
 
 @media (max-width: 1024px){
+  .nav_row{
+    max-width: 1024px;
+    gap:18rem;
+  }
+  .menu_item{
+    font-size: 0.85rem;
+    letter-spacing: 0.1rem;
+  }
   .hero_section_bg{
     width: 100%;
     min-height: 740px;
@@ -2032,6 +2075,14 @@
 
 /* TABLET SCREEN */
 @media (max-width: 768px){
+  .nav_row{
+    max-width: 1024px;
+    gap:14rem;
+  }
+  .menu_item{
+    font-size: 0.55rem;
+    letter-spacing: 0.1rem;
+  }
 
   .hero_section_bg{
     width: 100%;
