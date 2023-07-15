@@ -105,7 +105,9 @@ html {
     display: flex;
   }
   .nav_bar{
-    height: 50vh;
+    height: 30vh;
+    padding-top: 2rem;
+    background-color: brown;
   }
   .nav_row{
     flex-direction: column;
