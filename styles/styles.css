@@ -77,6 +77,8 @@ html {
   height:2rem;
   width: 2rem;
   position:absolute;
+  top:0.75rem;
+  right:1rem;
 }
 .hamburger{
   display: flex;
