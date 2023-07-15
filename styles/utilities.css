@@ -2572,11 +2572,14 @@
     .navbar{
       height: 30vh;
       padding-top: 2rem;
-      background-color: brown;
+      background-color: #c2827e;
     }
     .nav_row{
       flex-direction: column;
       gap:0;
+      position: absolute;
+      right:1rem;
+      top:4rem;
     }
 
 
