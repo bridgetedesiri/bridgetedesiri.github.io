@@ -2569,7 +2569,7 @@
     .hamburger{
       display: flex;
     }
-    .nav_bar{
+    .navbar{
       height: 30vh;
       padding-top: 2rem;
       background-color: brown;
@@ -2578,7 +2578,7 @@
       flex-direction: column;
       gap:0;
     }
-  
+
 
   .hero_section_bg{
     width: 100%;
