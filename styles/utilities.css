@@ -2572,7 +2572,7 @@
     .navbar{
       height: 30vh;
       padding-top: 2rem;
-      background-color: #c2827e;
+
     }
     .nav_row{
       flex-direction: column;
@@ -2588,9 +2588,12 @@
     }
 
 
-    
+
     .navbar-links.active {
        display: flex;
+   }
+   .navbar.active{
+     background-color: #c2827e;
    }
 
 
