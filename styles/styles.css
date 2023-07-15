@@ -104,6 +104,10 @@ html {
   .hamburger{
     display: flex;
   }
+  .nav_row{
+    flex-direction: column;
+    gap:0;
+  }
 }
 
 .tapered_line {
