@@ -2571,6 +2571,7 @@
     min-height: 240px;
     padding: 0;
     overflow-x: hidden;
+    border: 1px solid red;
   }
   .hero_content_wrapper{
     /* max-width: 620px; */
