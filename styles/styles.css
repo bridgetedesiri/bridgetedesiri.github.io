@@ -83,6 +83,11 @@ html {
 .hamburger{
   display: flex;
   flex-direction: column;
+  position:absolute;
+  top:0.75rem;
+  right:1rem;
+  height:6rem;
+  width: 2rem;
 
 }
 .bar{
