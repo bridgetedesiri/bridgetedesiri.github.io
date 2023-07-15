@@ -2581,6 +2581,9 @@
       right:1rem;
       top:4rem;
     }
+    .navbar-links.active {
+       display: flex;
+   }
 
 
   .hero_section_bg{
