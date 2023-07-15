@@ -104,6 +104,9 @@ html {
   .hamburger{
     display: flex;
   }
+  .nav_bar{
+    height: 50vh;
+  }
   .nav_row{
     flex-direction: column;
     gap:0;
