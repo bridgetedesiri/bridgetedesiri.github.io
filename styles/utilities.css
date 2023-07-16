@@ -3506,7 +3506,7 @@
  }
 
  .btn_lg{
-   padding: 1rem 1.5rem;
+   padding: 0.75rem 1rem;
    font-size: 0.45rem;
  }
 
@@ -3779,14 +3779,14 @@
        }
 
        .core_principles_button{
-           margin: 2rem 0 0 0;
+           margin: 0rem 0 0 0;
          }
          .core_principles_btn{
-           margin: 2.5rem  2rem;
+           margin: 1rem  0rem;
          }
        .core_principles_text{
            width: 100%;
-           margin: 0 0 0 0rem ;
+           margin: 0 0 0.8rem 0rem ;
          }
        .core_principles_descr{
            left:0;
@@ -3798,7 +3798,7 @@
            /* margin: 0; */
          }
        .core_principles_text p{
-             width: 44% !important;
+             width: 33% !important;
              left: 0rem !important;
              top:-0.5rem !important;
              /* margin: 0; */
