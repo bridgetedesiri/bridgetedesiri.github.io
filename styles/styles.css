@@ -599,6 +599,7 @@ html {
   right:0;
   bottom: 0;
   visibility: visible;
+  cursor: pointer;
 }
 .project_num{
   font-size: 1.05rem;
