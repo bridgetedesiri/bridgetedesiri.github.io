@@ -378,6 +378,7 @@ html {
 
 .about_desr_btn .btn_lg{
   padding: 3.5rem 8.5rem;
+  cursor: default !important;
 }
 
 .about_images{
