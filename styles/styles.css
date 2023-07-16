@@ -521,11 +521,12 @@ html {
 .project_wrap a{
   text-decoration: none;
   color: #fffce5;
-
+  cursor: pointer !important;
 }
 .project_wrap a:visited{
   text-decoration: none;
   color: #fffce5;
+
 
 }
 
