@@ -3507,7 +3507,7 @@
 
  .btn_lg{
    padding: 0.75rem 1rem;
-   font-size: 0.45rem;
+   font-size: 0.35rem;
  }
 
  .hero_content_row2{
@@ -3782,7 +3782,7 @@
            margin: 0rem 0 0 0;
          }
          .core_principles_btn{
-           margin: 1rem  0rem;
+           margin: 1rem  0.5rem;
          }
        .core_principles_text{
            width: 100%;
