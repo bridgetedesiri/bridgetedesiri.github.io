@@ -522,6 +522,12 @@ html {
   color: #fffce5;
 
 }
+.project_wrap a:visited{
+  text-decoration: none;
+  color: #fffce5;
+
+}
+
 
 .works1_text{
   text-align: left;
