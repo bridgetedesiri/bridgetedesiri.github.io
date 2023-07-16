@@ -367,7 +367,7 @@ html {
   margin: 0 auto;
   gap: 8rem;
   padding: 5.35rem 3rem 0 3rem;
-  cursor: default;
+  cursor: default !important;
 
 
 }
