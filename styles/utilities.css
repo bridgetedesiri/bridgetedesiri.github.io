@@ -883,6 +883,7 @@
     height: 275vh;
     max-width: 2000px;
     border-radius: 5000px;
+    min-height: 2000px;
   }
 
   .about_description{
