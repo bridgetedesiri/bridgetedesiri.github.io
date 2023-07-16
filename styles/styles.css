@@ -517,6 +517,10 @@ html {
 
 }
 
+.selcted_works_wrapper a{
+  text-decoration: none;
+}
+
 .works1_text{
   text-align: left;
   margin: 0 0 8rem 8rem;
