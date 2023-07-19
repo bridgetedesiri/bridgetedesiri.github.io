@@ -1155,6 +1155,9 @@ html {
 .menu__item-image.dining, .menu__item-image.resting {
 	 background-image: url("../pics/project4_img.jpg");
 }
+.menu__item-image.endulging, .menu__item-image.resting {
+	 background-image: url("../pics/project5_img.jpg");
+}
  /* .menu__item-image.dining {
 	 background-image: url("https://images.unsplash.com/photo-1565996939960-f42172c9e2bd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80");
 } */
