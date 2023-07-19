@@ -1138,12 +1138,16 @@ html {
 
 }
 
-.menu__item-image.living, .menu__item-image.resting {
+ .menu__item-image.living, .menu__item-image.resting {
 	 background-image: url("../pics/project3_img.jpg");
 }
- .menu__item-image.dining {
-	 background-image: url("https://images.unsplash.com/photo-1565996939960-f42172c9e2bd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80");
+
+.menu__item-image.dining, .menu__item-image.resting {
+	 background-image: url("../pics/project3_img.jpg");
 }
+ /* .menu__item-image.dining {
+	 background-image: url("https://images.unsplash.com/photo-1565996939960-f42172c9e2bd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80");
+} */
 
 /* .menu__item-image.endulging {
 	 background-image: url('https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80');
