@@ -810,6 +810,7 @@ html {
 }
 .core_principles_btn{
   margin: 2.5rem  4rem;
+  cursor: default !important;
 }
 
 .bonus_text{
