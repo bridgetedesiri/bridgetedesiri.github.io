@@ -687,6 +687,14 @@ html {
   padding: 2.8rem 1.2rem;
   color:#353535;
 }
+.add_projects a{
+  text-decoration: none;
+  color:#353535;
+}
+.add_projects a:visited{
+  text-decoration: none;
+  color:#353535;
+}
 .project3{
   font-size: 7rem;
 }
