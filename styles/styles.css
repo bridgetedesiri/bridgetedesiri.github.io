@@ -718,6 +718,10 @@ html {
   right: 5rem;
   /* fill:green; */
 }
+
+.floorplans .add_work_arrow{
+  margin-top: -5rem;
+}
 .add_project_img_hover{
   position: absolute;
   /* border: 2px solid yellow; */
@@ -1114,7 +1118,7 @@ html {
  .menu__item-text {
 	 line-height: 100px;
 	 display: inline-flex;
-	 height: 100px;
+	 height: 120px;
 	 color: rgba(53, 53, 53, 1);
 	 position: relative;
 	 z-index: 1;
