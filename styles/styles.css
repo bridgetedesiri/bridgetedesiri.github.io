@@ -650,6 +650,9 @@ html {
   cursor: pointer !important;
 
 }
+.project_btn:hover{
+  background-color: #A66660;
+}
 .project_arrow{
   display: inline-block;
   width: 15%;
