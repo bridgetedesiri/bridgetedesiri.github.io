@@ -721,6 +721,9 @@ html {
   right: 5rem;
   /* fill:green; */
 }
+.arrow_up{
+  margin-top:-4rem;
+}
 
 .floorplans .add_work_arrow{
   margin-top: -5rem;
